@@ -1,5 +1,5 @@
 {
-  "name": "react-template",
+  "name": "farm-react-bun",
   "version": "1.0.0",
   "scripts": {
     "dev": "farm start",
@@ -20,5 +20,6 @@
     "core-js": "^3.36.1",
     "@types/react-dom": "18",
     "react-refresh": "^0.14.0"
-  }
+  },
+  "private": true
 }
